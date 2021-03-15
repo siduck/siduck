@@ -1,4 +1,4 @@
-# Hi!! Im sid (19 , not a cs student )
+# Hi!! Im sid (19, Proud GNU/Void linux user!)
 
-I use GNU / voidlinux , currently learning to code ^_^
+I started to code at 18 since I got my pc very late , using linux since last year and learning to code !
   
