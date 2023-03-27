@@ -12,4 +12,4 @@ Hi there, I'm a self taught front-end Web developer and creator of NvChad. I'm l
 
 ## Recent projects 
 
-- [Bubbly](https://github.com/siduck) - Generate on-screen chat-bubble alike widgets to convey your message & show keystrokes on screen.
+- [Bubbly](https://github.com/siduck/bubbly) - Generate on-screen chat-bubble alike widgets to convey your message & show keystrokes on screen.
