@@ -2,7 +2,7 @@
 
 Hi there, I'm a self taught front-end Web developer and creator of NvChad. Also available for remote work and freelancing for website designing, building websites, linux ricing.
 
-- My [resume](https://github.com/siduck/siduck/files/12682867/resume.pdf)  built using my own [resume builder](https://github.com/siduck/quickcv).
+- My [resume](https://github.com/siduck/siduck/files/15243387/resume.pdf)  built using my own [resume builder](https://github.com/siduck/quickcv).
 - Places where you can contact me : 
 
 [![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/600704648038580235)
