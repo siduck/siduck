@@ -13,3 +13,4 @@ Hi there, I'm a self taught front-end Web developer and creator of NvChad.
 ## Recent projects 
 
 - [Bubbly](https://github.com/siduck/bubbly) - Generate on-screen chat-bubble alike widgets to convey your message & show keystrokes on screen.
+- [Minty](https://github.com/nvchad/minty) - Beautiful Color tools for Neovim, made using Volt.
