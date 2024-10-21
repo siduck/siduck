@@ -13,5 +13,9 @@ Hi there, I'm a self taught front-end Web developer and creator of NvChad.
 ## Recent projects 
 
 - [Bubbly](https://github.com/siduck/bubbly) - Generate on-screen chat-bubble alike widgets to convey your message & show keystrokes on screen.
-- [Minty](https://github.com/nvchad/minty) - Beautiful Color tools for Neovim, made using Volt.
-- [Menu](https://github.com/nvchad/menu) - Most eye-candy looking menu plugin for neovim.
+
+### Neovim related
+- [Minty](https://github.com/nvchad/minty) - Beautiful Color tools like colorpicker.
+- [Menu](https://github.com/nvchad/menu) - Most eye-candy looking menu plugin.
+- [Showkeys](https://github.com/NvChad/showkeys) - Beautiful minimal keycaster, 190 ~ LOC.
+- [Timerly](https://github.com/NvChad/timerly) - Eye candy interactive countdown timer.
