@@ -13,11 +13,11 @@ Hi there, I'm a self taught front-end Web developer and creator of NvChad.
 ## Recent projects 
 
 - [Base46-site](https://github.com/siduck/base46-site) - Website showcasing NvChad's base46 for multiple languages & supports themes for many terminals too. All syntax highlighted code is generated from Neovim itself-> tohtml and rendered on website.
-
 - [Bubbly](https://github.com/siduck/bubbly) - Generate on-screen chat-bubble alike widgets to convey your message & show keystrokes on screen.
 
-### Neovim related
+#### Neovim related
+- [Typr](https://github.com/nvchad/typr) - Most Beautiful Typing practice plugin in existence.
 - [Minty](https://github.com/nvchad/minty) - Beautiful Color tools like colorpicker.
 - [Menu](https://github.com/nvchad/menu) - Most eye-candy looking menu plugin.
-- [Showkeys](https://github.com/NvChad/showkeys) - Beautiful minimal keycaster, 190 ~ LOC.
 - [Timerly](https://github.com/NvChad/timerly) - Eye candy interactive countdown timer.
+- [Showkeys](https://github.com/NvChad/showkeys) - Beautiful minimal keycaster, 200 ~ LOC.
