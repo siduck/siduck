@@ -2,7 +2,7 @@
 
 Hi there, I'm a self taught front-end Web developer and creator of NvChad.
 
-- My [resume](https://github.com/user-attachments/files/21734031/resume.pdf)  built using my own [resume builder](https://github.com/siduck/quickcv).
+- My [resume](https://github.com/user-attachments/files/21798908/resume.pdf) built using my own [resume builder](https://github.com/siduck/quickcv).
 - I'm available for work and currently looking for a frontend dev job.
 - Places where you can contact me : 
 
