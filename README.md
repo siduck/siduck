@@ -1,6 +1,7 @@
 # Introduction 
 
-Hi there, I'm a self taught front-end Web developer and creator of NvChad.
+Self-taught Frontend Developer passionate about creating beautiful and performant websites & blazing fast things! 
+Everything I make is beautiful. Creator and maintainer of NvChad + its plugins and [NvZone](https://github.com/nvzone)
 
 - My [resume](https://github.com/user-attachments/files/21798908/resume.pdf) built using my own [resume builder](https://github.com/siduck/quickcv).
 - I'm available for work and currently looking for a frontend dev job.
