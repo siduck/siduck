@@ -13,12 +13,12 @@ Hi there, I'm a self taught front-end Web developer and creator of NvChad.
 
 ## Recent projects 
 
-- [Base46-site](https://github.com/siduck/base46-site) - Website showcasing NvChad's base46 for multiple languages & supports themes for many terminals too. All syntax highlighted code is generated from Neovim itself-> tohtml and rendered on website.
-- [Bubbly](https://github.com/siduck/bubbly) - Generate on-screen chat-bubble alike widgets to convey your message & show keystrokes on screen.
-
-#### Neovim related
-- [Typr](https://github.com/nvchad/typr) - Most Beautiful Typing practice plugin in existence.
-- [Minty](https://github.com/nvchad/minty) - Beautiful Color tools like colorpicker.
-- [Menu](https://github.com/nvchad/menu) - Most eye-candy looking menu plugin.
-- [Timerly](https://github.com/NvChad/timerly) - Eye candy interactive countdown timer.
-- [Showkeys](https://github.com/NvChad/showkeys) - Beautiful minimal keycaster, 200 ~ LOC.
+- [Haze-ui](https://github.com/hazeui/haze-ui) - Blazing fast minimal UI library for React, Solidjs, Svelte built using UnoCSS
+- [Base46-site](https://github.com/siduck/base46-site) - Website showcasing NvChad's base46 for multiple languages & supports themes for many terminals too. All syntax highlighted code is generated from Neovim itself.
+- [Bubbly](https://github.com/siduck/bubbly) - Generate on-screen chat-bubble alike widgets to convey your message & show keystrokes on screen (Linux)
+- [Typr](https://github.com/nvchad/typr) - Most Beautiful Typing practice plugin in existence for Neovim.
+- [Floaterm](https://github.com/nvzone/floaterm) - Toggleable floating terminal manager for Neovim.
+- [Minty](https://github.com/nvchad/minty) - Beautiful Color tools like colorpicker for Neovim.
+- [Menu](https://github.com/nvchad/menu) - Most eye-candy looking menu plugin for Neovim.
+- [Timerly](https://github.com/NvChad/timerly) - Eye candy interactive countdown timer for Neovim.
+- [Showkeys](https://github.com/NvChad/showkeys) - Beautiful minimal keycaster, 200 ~ LOC for Neovim.
