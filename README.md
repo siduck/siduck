@@ -13,10 +13,10 @@ Everything I make is beautiful. Creator and maintainer of NvChad + its plugins a
 [![Tutanota](https://img.shields.io/badge/Tutanota-840010?style=for-the-badge&logo=Tutanota&logoColor=white)](mailto:siduck@tutanota.com)
 
 ## Recent projects 
-
+- [Quick CV](https://github.com/siduck/quickcv) - Fast CV maker for devs, has split/tabbed mode & uses browser's native window.print() to generate pdf!
 - [Haze-ui](https://github.com/hazeui/haze-ui) - Blazing fast minimal UI library for React, Solidjs, Svelte built using UnoCSS
 - [Base46-site](https://github.com/siduck/base46-site) - Website showcasing NvChad's base46 for multiple languages & supports themes for many terminals too. All syntax highlighted code is generated from Neovim itself.
-- [Bubbly](https://github.com/siduck/bubbly) - Generate on-screen chat-bubble alike widgets to convey your message & show keystrokes on screen (Linux)
+- [Bubbly](https://github.com/siduck/bubbly) - Generate on-screen cute bubble widgets to show chats/keystrokes typed (Linux)
 - [Typr](https://github.com/nvchad/typr) - Most Beautiful Typing practice plugin in existence for Neovim.
 - [Floaterm](https://github.com/nvzone/floaterm) - Toggleable floating terminal manager for Neovim.
 - [Minty](https://github.com/nvchad/minty) - Beautiful Color tools like colorpicker for Neovim.
