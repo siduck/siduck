@@ -3,8 +3,8 @@
 Self-taught Frontend Developer passionate about creating beautiful and performant websites & blazing fast things! 
 Everything I make is beautiful 
 . Creator and maintainer of NvChad + its plugins and [NvZone](https://github.com/nvzone)
- 
-- My [resume](https://github.com/user-attachments/files/22318281/resume.pdf) built using my own [resume builder](https://github.com/siduck/quickcv).
+
+- My [resume](https://github.com/user-attachments/files/22318294/resume.pdf) built using my own [resume builder](https://github.com/siduck/quickcv).
 - I'm available for work and currently looking for a frontend dev job.
 - Places where you can contact me : 
 
